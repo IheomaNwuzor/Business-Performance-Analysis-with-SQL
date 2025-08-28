@@ -38,7 +38,8 @@ This project demonstrated the use of SQL in extracting actionable insights from 
 •	Operational performance: The number of orders placed in 2015 was extracted to track yearly demand.
 •	Top-performing products: The best-selling product (by quantity) in 2015 was identified, along with its category, supporting inventory planning and promotional strategies.
 •	Market gaps: Products never ordered were analyzed to determine their average price, highlighting potential mismatches between pricing strategy and customer demand.
-Overall, this analysis provided a comprehensive view of business performance, demonstrating the use of SQL to transform raw transactional records into strategic insights for faster and more informed decision-making.
+
+## Overall, this analysis provided a comprehensive view of business performance, demonstrating the use of SQL to transform raw transactional records into strategic insights for faster and more informed decision-making.
 
 
 
